@@ -1,0 +1,4 @@
+python-docx==1.2.0
+lxml==6.1.1
+# optional, only for the XML inspection tool scripts/office/unpack.py:
+# defusedxml
