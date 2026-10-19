@@ -1,0 +1,17 @@
+{
+  "P031": {
+    "class": "reversal",
+    "test": "blind meaning check",
+    "reason": "the revision narrowed the claim from all firms to large firms"
+  },
+  "P047": {
+    "class": "partial",
+    "reason": "span 2 escalated a hedge into an assertion; the other spans kept",
+    "revised": "Firms facing activist demands frequently concede to them, and managers cannot predict which firm activists will target next."
+  },
+  "P052": {
+    "class": "reversal",
+    "test": "blind meaning check",
+    "reason": "the revision changes an unspecified frequency ('frequently') to a majority claim ('in most cases')"
+  }
+}
